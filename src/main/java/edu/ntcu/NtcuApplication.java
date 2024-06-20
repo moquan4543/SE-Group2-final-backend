@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class NtcuApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(NtcuApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(NtcuApplication.class, args);
+    }
 
 }
