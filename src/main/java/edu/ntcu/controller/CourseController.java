@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@CrossOrigin(value = "http://localhost:3000")
+@CrossOrigin(value = "https://se-group2-final-project.vercel.app/")
 public class CourseController {
     @Autowired
     CourseRepository repo;

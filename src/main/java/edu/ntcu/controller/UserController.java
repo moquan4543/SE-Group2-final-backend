@@ -13,7 +13,7 @@ import java.util.NoSuchElementException;
 import java.util.Optional;
 
 @RestController
-@CrossOrigin(value = "http://localhost:3000")
+@CrossOrigin(value = "https://se-group2-final-project.vercel.app/")
 public class UserController {
     @Autowired
     UserRepository repo;
